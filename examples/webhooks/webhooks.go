@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/nlopes/slack"
+	"github.com/eberson/slack"
 )
 
 func main() {

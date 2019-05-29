@@ -28,7 +28,7 @@ a fully managed way.
 import (
 	"fmt"
 
-	"github.com/nlopes/slack"
+	"github.com/eberson/slack"
 )
 
 func main() {
@@ -53,7 +53,7 @@ func main() {
 import (
     "fmt"
 
-    "github.com/nlopes/slack"
+    "github.com/eberson/slack"
 )
 
 func main() {
